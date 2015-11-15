@@ -1,3 +1,9 @@
+(Eclipse 4.3 (Kepler)) https://developers.google.com/eclipse/docs/faq >> https://dl.google.com/eclipse/plugin/4.3
+(appengine-java-sdk-1.9.9.zip) https://console.developers.google.com/storage/browser/appengine-sdks/deprecated/199/?_ga=1.15314486.1815503669.1445439969&pli=1
+(Google Web Toolkit (GWT) 2.6.1) http://olex.openlogic.com/packages/gwt/2.6.1
+(Eclipse Platform Project 4.3) http://olex.openlogic.com/packages/eclipse/4.3
+
+
 (Deploy to GAE "Google App Engine")
 ---------------------------------
 >> http://www.mkyong.com/google-app-engine/google-app-engine-hello-world-example-using-eclipse/
